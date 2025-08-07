@@ -1,0 +1,3 @@
+google-generativeai
+Pillow
+openai ; python_version >= "3.7"
